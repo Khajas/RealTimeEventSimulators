@@ -1,0 +1,5 @@
+Same-day-delivery
+One-day-delivery
+Two-day-delivery
+Three-day-delivery
+Standard-delivery
